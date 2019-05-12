@@ -11,6 +11,8 @@
 </p>
 
 ---
+## Requirement
+macOS Mojave
 
 ## Installation
 1. [Download latest Xcode-Sync.zip](https://github.com/Makeeyaf/Xcode-Sync/releases)
