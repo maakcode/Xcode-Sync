@@ -19,5 +19,17 @@ macOS Mojave
 1. Unzip the downloaded zip file.
 1. Move Xcode Sync.app into your Application directory.
 
+## How to use
+1. Click "Preference" button.  
+![Menubar Image 1](https://github.com/Makeeyaf/Xcode-Sync/blob/master/1.png)
+
+1. Click "Login" button to login to Github.  
+![Preference Window](https://github.com/Makeeyaf/Xcode-Sync/blob/master/2.png)
+
+1. Download or Upload your themes, snippets and template.  
+![Menubar Image 2](https://github.com/Makeeyaf/Xcode-Sync/blob/master/3.png)
+
+
+
 ## License
 [MIT License](https://github.com/Makeeyaf/Xcode-Sync/blob/master/LICENSE)
